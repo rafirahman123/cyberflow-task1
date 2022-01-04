@@ -1,0 +1,19 @@
+.row {
+    --bs-gutter-x: 0;
+}
+.bannerfirst{
+    background-color: #15161a;
+}
+.banner-img{
+    width: 100%;
+}
+.first-part-text{
+    font-size: 70px;
+    margin-top: 150px;
+    color: white;
+    margin-left: 20px;
+}
+.first-part-text-two{
+    color: white;
+    margin-left: 25px;  
+}

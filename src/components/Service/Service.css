@@ -1,0 +1,16 @@
+.service-section{
+    background-color:#15161a;
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+.service-headertext{
+    color: white;
+    padding: 20px;
+}
+.service-icon{
+    font-size: 40px;
+    text-align: center;
+}
+.service-text{
+    text-align: start;
+}

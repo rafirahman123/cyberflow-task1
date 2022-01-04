@@ -1,0 +1,26 @@
+.input-field{
+    width: 28rem;
+    border-radius: 25px;
+    font-weight: 700;
+    padding-left: 30px;
+    margin: auto;
+}
+.input-field-second{
+    width: 63rem;
+    height: 123px;
+    border-radius: 50px;
+    font-weight: 700;
+    padding-left: 30px;
+    margin: auto;
+}
+
+.contact-button{
+    width: 63rem;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: 700;
+    text-align: center;
+    background-color: #15161a;
+    color: white;
+    margin: auto;
+}
